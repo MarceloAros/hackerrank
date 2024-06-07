@@ -19,10 +19,6 @@ public class JumpingOnTheClouds {
         position = position + 1;
       }
       hoops++;
-
-//      if (position == c.size()-1) {
-//        break;
-//      }
     }
 
     return hoops;
