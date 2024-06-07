@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Socks {
+public class SockMerchant {
   public static void main(String[] args) {
     List<Integer> arr = List.of(0, 20, 20, 10, 10, 30, 50, 10, 20);
 
